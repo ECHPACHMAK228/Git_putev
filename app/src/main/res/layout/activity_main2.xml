@@ -23,7 +23,9 @@
         android:id="@+id/ButtonDalee2"
         android:layout_width="149dp"
         android:layout_height="77dp"
-        android:background="@drawable/bg_canel"
+        android:background="#FFF"
+
+
         android:text="Далее"
         android:textSize="24sp"
         android:textStyle="bold"
